@@ -31,7 +31,7 @@ I transform raw data into meaningful insights that drive **better, faster, and m
 
 ## 🔨 Featured Projects  
 - **AdventureWorks Pipeline** – Full ELT pipeline with Meltano (Dockerized), dbt, Databricks Jobs; multi-layered data warehouse model.  
-- **Churn Prediction Model** – Logistic regression (Python + scikit-learn), including preprocessing, feature selection, evaluation metrics.  
+- **Churn Prediction Model** – Logistic regression (Python + scikit-learn), including preprocessing, feature selection, and evaluation metrics.  
 - **Climate Adaptation Dashboard** – Built an interactive Power BI dashboard to prioritize municipalities for a **USD 60M climate resilience fund**.  
 
 ➡️ Explore more in my [repositories](https://github.com/alerodriguessf?tab=repositories).  
@@ -41,7 +41,7 @@ I transform raw data into meaningful insights that drive **better, faster, and m
 ## 🌱 Currently Learning & Building  
 - Strengthening **econometrics & applied math** foundations in my MSc  
 - Designing **reusable dbt models** & Power BI templates  
-- Writing about the intersection of **data, policy, and decision-making**  
+- Writing about the intersection of **data, policy, and philosophy**  
 
 ---
 
