@@ -1,50 +1,60 @@
-# Hi, I'm Alexandre 👋  
+# Hi, I’m Alexandre 👋  
 
-I'm a **Data Analyst & Analytics Engineer** based in Milan 🇮🇹.  
-I turn **messy data into good decisions** — combining the rigor of an analyst with the perspective of a philosopher.  
-
-Currently pursuing my **MSc in Economics & Political Science at Università degli Studi di Milano**, while working on modern data stack projects and analytics consulting.  
+I transform raw data into meaningful insights that drive **better, faster, and more human-centered decisions** — from global pharmaceutical leaders to government policymakers.  
 
 ---
 
-## 🚀 Skills & Technologies  
+## 🎯 About Me  
+- 📍 Based in Milan 🇮🇹 | MSc student in Economics & Political Science at **Università degli Studi di Milano**  
+- 🛠️ **Analytics Engineer Apprentice @ Indicium** (Lighthouse Program)  
+- 🌍 **Background in public policy**: supported the Governor of Pernambuco’s office with data-driven strategies for climate and economic policy  
+- 💡 **Passionate about clarity**: turning messy data into decisions leaders can trust  
 
-**Languages:** Python (Pandas, NumPy, SciPy, PySpark), SQL (PostgreSQL, SQL Server, MySQL)  
-**Data Engineering:** dbt, Meltano, Airflow, Databricks, Docker  
-**Analytics & BI:** Power BI, Excel (Dashboards, Pivot Tables, VLOOKUP), Visualization & Storytelling  
-**Tools:** Git & GitHub, VS Code  
+---
+
+## 🏆 Highlights  
+- Built the dashboard that guided allocation of a **R$300M climate adaptation grant**  
+- Contributed to Pernambuco’s **Green Hydrogen Strategy**  
+- Ambassador – Paris Institute of Critical Thinking  
+- Top 100 Leaders – Students for Liberty (2019)  
+- Winner – Virtù Tank (Public Policy “Shark Tank”)  
+
+---
+
+## 🚀 Skills & Tech Stack  
+**Languages & Data Science**: Python (Pandas, NumPy, SciPy, PySpark), SQL (PostgreSQL, SQL Server, MySQL)  
+**Data Engineering**: dbt, Meltano, Airflow, Databricks, Docker  
+**Analytics & BI**: Power BI, Excel (dashboards, modeling, KPI reporting)  
+**Tools**: Git & GitHub, VS Code  
 
 ---
 
 ## 🔨 Featured Projects  
+- **AdventureWorks Pipeline** – Full ELT pipeline with Meltano (Dockerized), dbt, Databricks Jobs; multi-layered data warehouse model.  
+- **Churn Prediction Model** – Logistic regression (Python + scikit-learn), including preprocessing, feature selection, evaluation metrics.  
+- **Climate Adaptation Dashboard** – Built an interactive Power BI dashboard to prioritize municipalities for a **USD 60M climate resilience fund**.  
 
-- **AdventureWorks Pipeline** – ELT pipeline using Meltano (Dockerized), dbt, Databricks CLI & Jobs, with a multi-layered data warehouse model.  
-- **Churn Prediction** – Logistic regression model for a streaming service (Python + scikit-learn), including preprocessing, feature selection, and evaluation metrics.  
-- **Climate Adaptation Dashboard** – Prioritization index and interactive Power BI dashboard to guide a **USD 60M climate grant** allocation in Brazil.  
-
-Explore more on my [GitHub Repositories](https://github.com/alerodriguessf).  
-
----
-
-## 🌱 Open Source & Learning  
-
-- Building reusable **dbt models** and Power BI templates for analysts.  
-- Exploring the intersection of **data + policy + decision-making**.  
-- Sharing knowledge through blog posts and portfolio write-ups.  
+➡️ Explore more in my [repositories](https://github.com/alerodriguessf?tab=repositories).  
 
 ---
 
-## 📫 Contact Me  
+## 🌱 Currently Learning & Building  
+- Strengthening **econometrics & applied math** foundations in my MSc  
+- Designing **reusable dbt models** & Power BI templates  
+- Writing about the intersection of **data, policy, and decision-making**  
 
-- **LinkedIn:** [linkedin.com/in/alexandrersf](https://www.linkedin.com/in/alexandrersf)  
+---
+
+## 📫 Let’s Connect  
 - **Portfolio:** [alexandrersf.netlify.app](https://alexandrersf.netlify.app)  
+- **LinkedIn:** [linkedin.com/in/alexandrersf](https://www.linkedin.com/in/alexandrersf)  
 - **Email:** alerodriguessf@gmail.com  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Alexandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alerodriguessf&show_icons=true&theme=tokyonight)  
+![Alexandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alerodriguessf&show_icons=true&theme=tokyonight)
 
 ---
 ✨ *From messy data to good decisions.*
