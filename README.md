@@ -40,14 +40,14 @@ I transform raw data into meaningful insights that drive **better, faster, and m
 
 ## 🌱 Currently Learning & Building  
 - Strengthening **econometrics & applied math** foundations in my MSc  
-- Designing **reusable dbt models** & Power BI templates  
-- Writing about the intersection of **data, policy, and philosophy**  
+- Writing on the intersection of **data, policy, and philosophy**  
 
 ---
 
 ## 📫 Let’s Connect  
 - **Portfolio:** [alexandrersf.netlify.app](https://alexandrersf.netlify.app)  
-- **LinkedIn:** [linkedin.com/in/alexandrersf](https://www.linkedin.com/in/alexandrersf)  
+- **LinkedIn:** [linkedin.com/in/alexandrersf](https://www.linkedin.com/in/alexandrersf)
+- **Medium:** [medium.com/@alexandrersf](https://medium.com/@alexandrersf) 
 - **Email:** alerodriguessf@gmail.com  
 
 ---
