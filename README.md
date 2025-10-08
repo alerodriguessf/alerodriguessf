@@ -6,7 +6,7 @@ I transform raw data into meaningful insights that drive **better, faster, and m
 
 ## 🎯 About Me  
 - 📍 Based in Milan 🇮🇹 | MSc student in Economics & Political Science at **Università degli Studi di Milano**  
-- 🛠️ **Analytics Engineer Apprentice @ Indicium** (Lighthouse Program)  
+- 🛠️ **Analytics Engineer @ Indicium** (Lighthouse Program)  
 - 🌍 **Background in public policy**: supported the Governor of Pernambuco’s office with data-driven strategies for climate and economic policy  
 - 💡 **Passionate about clarity**: turning messy data into decisions leaders can trust  
 
